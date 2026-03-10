@@ -31,7 +31,7 @@ I am an **AI Engineer** based in Islamabad, Pakistan, currently architecting lar
 ---
 
 ### 📈 Current Metrics
-* [cite_start]**Production Impact:** Engineering pipelines processing 12+ concurrent camera streams. [cite: 59]
-* [cite_start]**Optimization:** Reduced GPU memory usage by 40% through continuous batching and mixed-precision techniques. [cite: 62]
+* **Production Impact:** Engineering pipelines processing 12+ concurrent camera streams.
+* **Optimization:** Reduced GPU memory usage by 40% through continuous batching and mixed-precision techniques.
 
 [LinkedIn](https://linkedin.com/in/abdulxali) • [Email](mailto:muhammed.ali798@gmail.com)
